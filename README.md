@@ -1,1 +1,0 @@
-# Ejercicio-logica-2
